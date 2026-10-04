@@ -1,4 +1,4 @@
-```markdown
+
 # ThyroSense – AI-Powered Thyroid Disease Classification & Lab OCR
 
 **ThyroSense** is a Flask web application designed for interactive thyroid disease prediction. Powered by a custom Perceptron model trained from scratch, the system evaluates clinical history, demographic details, and lab values to predict thyroid condition status. It includes full OCR support for extracting lab parameters directly from medical report images.
